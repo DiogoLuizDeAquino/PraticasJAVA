@@ -1,2 +1,2 @@
-# Pr-ticas_prog
+# Praticas em Java 
 Práticas desenvolvidadas durante a faculdade.
